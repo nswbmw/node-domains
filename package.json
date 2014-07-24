@@ -1,0 +1,17 @@
+{
+  "name": "domains",
+  "version": "0.0.1",
+  "description": "List of domains, include com, org ...",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MangroveTech/node-domains.git"
+  },
+  "keywords": [
+    "domain",
+    "url",
+    "suffix",
+    "com",
+    "org"
+  ]
+}

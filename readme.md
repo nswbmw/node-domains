@@ -62,7 +62,7 @@ npm i domains --save
 
 [node-tld](https://github.com/donpark/node-tld)
 
-### Lisence
+### License
 
 MPL 2.0  
 via: [https://publicsuffix.org/list/effective_tld_names.dat](https://publicsuffix.org/list/effective_tld_names.dat)

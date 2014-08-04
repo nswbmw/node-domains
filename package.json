@@ -1,6 +1,6 @@
 {
   "name": "domains",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of domains, include com, org ...",
   "main": "index.js",
   "repository": {
@@ -14,5 +14,6 @@
     "suffix",
     "com",
     "org"
-  ]
+  ],
+  "license": "MIT"
 }

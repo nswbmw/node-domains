@@ -8,13 +8,13 @@ List of domains, include `com`, `org` ...
 $ npm i domains --save
 ```
 
-### domains
+### Domains
 
 The number of domains: 1533. For details see [code](index.js)
 
-### Otherwise
+### Related
 
-[node-tld](https://github.com/donpark/node-tld)
+- [node-tld](https://github.com/donpark/node-tld) - node.js module for working with Top-Level Domain data
 
 ### License
 

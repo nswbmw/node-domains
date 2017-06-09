@@ -15,6 +15,7 @@ The number of domains: 1533. For details see [code](index.js)
 ### Related
 
 - [node-tld](https://github.com/donpark/node-tld) - node.js module for working with Top-Level Domain data
+- [is-url-relative-without-domain](https://github.com/Arttse/node.is-url-relative-without-domain) - checks if an URL is relative without domain
 
 ### License
 

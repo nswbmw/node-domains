@@ -1,9 +1,11 @@
 ## node-domains
 
+List of domains, include `com`, `org` ...
+
 ### Install
 
 ```
-npm i domains --save
+$ npm i domains --save
 ```
 
 ### domains

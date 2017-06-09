@@ -10,7 +10,7 @@ $ npm i domains --save
 
 ### domains
 
-The number of domains: 1534. For details see [code](index.js)
+The number of domains: 1533. For details see [code](index.js)
 
 ### Otherwise
 

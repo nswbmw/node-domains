@@ -1,6 +1,6 @@
 ## node-domains
 
-List of domains, include `com`, `org` ...
+List of TLDs, include `com`, `org` ...
 
 ### Install
 
@@ -10,7 +10,7 @@ $ npm i domains --save
 
 ### Domains
 
-The number of domains: 1535. For details see [code](index.js)
+The number of top-level domains: 1535. For details see [code](index.js)
 
 ### Related
 

@@ -10,7 +10,7 @@ $ npm i domains --save
 
 ### Domains
 
-The number of top-level domains: 1535. For details see [code](index.js)
+The number of top-level domains: 1550. For details see [code](index.js)
 
 ### Related
 
